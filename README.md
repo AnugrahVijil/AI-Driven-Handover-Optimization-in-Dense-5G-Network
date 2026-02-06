@@ -22,7 +22,7 @@ of this project is to develop an intelligent system that predicts and optimizes 
 based on network conditions, mobility behavior, and cell congestion metrics.
 
 3. Research Objectives
-The project aims to:
+  The project aims to:
 • Reduce handover failures and radio link failures.
 • Minimize ping-pong handovers between neighboring cells.
 • Improve session throughput and latency performance.
